@@ -12,4 +12,4 @@ def calculate_electricity_bill(units):
 units = int(input("Enter number of units consumed: "))
 
 total_bill = calculate_electricity_bill(units)
-print("Total Electricity Bill: ₹", total_bill)
+print("Total Electricity Bill: ₹",total_bill)
